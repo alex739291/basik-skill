@@ -131,23 +131,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 596,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "dist/index.html",
-			"settings":
-			{
-				"buffer_size": 640,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Bassic project.sublime-project",
-			"settings":
-			{
-				"buffer_size": 45,
+				"buffer_size": 597,
 				"line_ending": "Unix"
 			}
 		},
@@ -155,7 +139,42 @@
 			"file": "gulpfile.js",
 			"settings":
 			{
-				"buffer_size": 2440,
+				"buffer_size": 2708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".bowerrc",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dist/index.html",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n",
+			"file": "alex/cammon.js",
+			"file_size": 2,
+			"file_write_time": 131075389592339523,
+			"settings":
+			{
+				"buffer_size": 1,
 				"line_ending": "Windows"
 			}
 		}
@@ -214,28 +233,28 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Верстки/js/dist",
-		"/E/Верстки/js/dist/css",
-		"/E/Верстки/js/src",
-		"/E/Верстки/js/src/sass"
+		"/E/Верстки/js",
+		"/E/Верстки/js/dist"
 	],
 	"file_history":
 	[
-		"/E/Programes/Sublime Text Build 3083/Data/Packages/auto-save/auto_save.sublime-settings",
-		"/E/Programes/Sublime Text Build 3083/Data/Packages/User/auto_save.sublime-settings",
-		"/E/Верстки/js/dist/index.html",
+		"/E/Верстки/js/.bowerrc",
 		"/E/Верстки/js/bower.json",
-		"/E/Верстки/js/src/js/commands.js",
+		"/E/Верстки/js/.gitignore",
+		"/E/Верстки/js/dist/index.html",
 		"/E/Верстки/js/src/sass/style.scss",
-		"/E/Верстки/js/dist/js/app.min.js",
 		"/E/Верстки/js/gulpfile.js",
+		"/E/my-project-ws/.gitignore",
+		"/E/Programes/Sublime Text Build 3083/Data/Packages/User/auto_save.sublime-settings",
+		"/E/Programes/Sublime Text Build 3083/Data/Packages/auto-save/auto_save.sublime-settings",
+		"/E/Верстки/js/src/js/commands.js",
+		"/E/Верстки/js/dist/js/app.min.js",
 		"/E/my-project-ws/dist/js/cammon.js",
 		"/E/Верстки/js/dist/css/app.min.css",
 		"/E/Programes/Sublime Text Build 3083/Data/Packages/auto-save/README.md",
 		"/E/Верстки/js/src/js",
 		"/E/Верстки/js/dist/css/style.css",
 		"/E/Верстки/js/sass/style.scss",
-		"/E/Верстки/js/.bowerrc",
 		"/E/Верстки/js/src",
 		"/E/Верстки/js/dist/style.css",
 		"/E/Верстки/wordpress-landing-page-lesson-master/_clean_html/index.html",
@@ -371,7 +390,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -380,15 +399,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 596,
+						"buffer_size": 597,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								310,
-								310
+								280,
+								280
 							]
 						],
 						"settings":
@@ -396,62 +415,89 @@
 							"syntax": "Packages/Theme - Piatto/icons/Langs/npm JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 79.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1699,
+								1699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1740.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "dist/index.html",
+					"buffer": 2,
+					"file": ".bowerrc",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 640,
+						"buffer_size": 36,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								556,
-								556
+								36,
+								36
 							]
 						],
 						"settings":
 						{
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Theme - Piatto/icons/Langs/Bower JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 60.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "Bassic project.sublime-project",
-					"semi_transient": true,
+					"buffer": 3,
+					"file": ".gitignore",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 59,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								58,
+								58
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Theme - Piatto/icons/Langs/Git.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -461,32 +507,61 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "gulpfile.js",
+					"buffer": 4,
+					"file": "dist/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2440,
+						"buffer_size": 699,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1045,
-								1045
+								595,
+								595
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Theme - Piatto/icons/Langs/Gulpfile JS.tmLanguage",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 300.0,
+						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "alex/cammon.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
